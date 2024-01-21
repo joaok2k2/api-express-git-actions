@@ -5,7 +5,7 @@ on:
       - main
       - dev
 env:
-  MONGO_DB_NAME: HELLO-WORLD    
+  MONGODB_DB_NAME: HELLO-WORLD    
 jobs:
   test:
     env:
